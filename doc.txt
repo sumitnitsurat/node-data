@@ -1,0 +1,4 @@
+robomongo  - to display the database structure 
+gulp compile-ts  - to compile the project 
+gulp - to run the project '
+localhost:9999/data/users
